@@ -26,9 +26,7 @@
 </p>
 <p >
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Vue.js&color=222222&logo=Vue.js&logoColor=4FC08D&label=" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Angular&color=DD0031&logo=Angular&logoColor=FFFFFF&label=" />&nbsp;&nbsp;
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label=" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Ionic&color=3880FF&logo=Ionic&logoColor=FFFFFF&label=" />&nbsp;&nbsp;
 </p>
 <h4>⚒&nbsp;&nbsp;&nbsp;Back-End Technologies</h4>
 <p >
